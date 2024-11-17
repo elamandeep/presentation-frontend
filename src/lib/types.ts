@@ -1,0 +1,1 @@
+export type ItemsType = { infoResult: Promise<any>  | undefined; displayNameofProvince : string | null}
